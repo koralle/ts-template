@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "type": "module",
+  "name": "ts-template",
+  "packageManager": "pnpm@9.0.5",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "koralle",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20",
+    "pnpm": ">=9",
+    "npm": "please use pnpm!",
+    "yarn": "please use pnpm!"
+  }
+}
