@@ -2,7 +2,7 @@
   "private": true,
   "type": "module",
   "name": "ts-template",
-  "packageManager": "pnpm@9.0.5",
+  "packageManager": "pnpm@9.3.0",
   "version": "0.0.0",
   "description": "",
   "scripts": {},
@@ -10,14 +10,14 @@
   "author": "koralle",
   "license": "MIT",
   "engines": {
-    "node": ">=20",
-    "pnpm": ">=9",
+    "node": ">=20.14.0",
+    "pnpm": ">=9.3.0",
     "npm": "please use pnpm!",
     "yarn": "please use pnpm!"
   },
   "devDependencies": {
     "@tsconfig/strictest": "^2.0.5",
     "typescript": "^5.4.5",
-    "vitest": "^1.5.0"
+    "vitest": "^1.6.0"
   }
 }
