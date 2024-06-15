@@ -5,7 +5,11 @@
   "packageManager": "pnpm@9.3.0",
   "version": "0.0.0",
   "description": "",
-  "scripts": {},
+  "scripts": {
+    "fmt": "biome format src/* --write",
+    "typecheck": "tsc --noEmit",
+    "check": "biome check src/*"
+  },
   "keywords": [],
   "author": "koralle",
   "license": "MIT",
@@ -16,7 +20,9 @@
     "yarn": "please use pnpm!"
   },
   "devDependencies": {
+    "@biomejs/biome": "^1.8.1",
     "@tsconfig/strictest": "^2.0.5",
+    "lefthook": "^1.6.16",
     "typescript": "^5.4.5",
     "vitest": "^1.6.0"
   }
