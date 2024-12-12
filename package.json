@@ -2,7 +2,7 @@
   "private": true,
   "type": "module",
   "name": "ts-template",
-  "packageManager": "pnpm@9.3.0",
+  "packageManager": "pnpm@10.0.0-beta.3+sha512.c80ce119df06d870c6029de0040d75ca3fad1e1e386914b691cdf663ec5aa8ab470312580b11257fddf4a340fc6a9737599fc2a489b195c13bf88c86bd3f9006",
   "version": "0.0.0",
   "description": "",
   "scripts": {
