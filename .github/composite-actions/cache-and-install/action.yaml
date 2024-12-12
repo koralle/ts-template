@@ -10,13 +10,9 @@ runs:
 
     - name: Install Node.js
       uses: actions/setup-node@v4.0.2
-      with:
-        node-version: 20
 
     - uses: pnpm/action-setup@v4.0.0
       name: Install pnpm
-      with:
-        version: 9.3.0
         run_install: false
 
     - name: Get pnpm store directory
