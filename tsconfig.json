@@ -3,6 +3,6 @@
   "compilerOptions": {
     "lib": ["esnext", "dom", "dom.iterable"],
     "module": "esnext",
-    "target": "esnext"
+    "target": "es2022"
   }
 }
