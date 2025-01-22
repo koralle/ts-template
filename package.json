@@ -14,16 +14,16 @@
   "author": "koralle",
   "license": "MIT",
   "engines": {
-    "node": ">=22.13.0",
-    "pnpm": ">=9.15.3",
+    "node": ">=22.13.1",
+    "pnpm": ">=9.15.4",
     "npm": "please use pnpm!",
     "yarn": "please use pnpm!"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
     "@tsconfig/strictest": "^2.0.5",
-    "@types/node": "^22.10.5",
-    "lefthook": "^1.10.3",
+    "@types/node": "^22.10.7",
+    "lefthook": "^1.10.10",
     "typescript": "^5.7.3",
     "vitest": "^2.1.8"
   }
