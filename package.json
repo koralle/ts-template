@@ -15,7 +15,7 @@
   "license": "MIT",
   "engines": {
     "node": ">=22.14.0",
-    "pnpm": ">=9.15.9",
+    "pnpm": ">=10.6.2",
     "npm": "please use pnpm!",
     "yarn": "please use pnpm!"
   },
