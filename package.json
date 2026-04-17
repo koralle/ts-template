@@ -25,7 +25,7 @@
     "@types/node": "^24.0.1",
     "lefthook": "^1.11.13",
     "pnpm": "^10.12.1",
-    "typescript": "^5.8.3",
+    "typescript": "^6.0.3",
     "vitest": "^3.2.3"
   }
 }
