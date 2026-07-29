@@ -2,7 +2,7 @@
   "private": true,
   "type": "module",
   "name": "ts-template",
-  "packageManager": "pnpm@10.12.1",
+  "packageManager": "pnpm@10.34.5",
   "version": "0.0.0",
   "description": "",
   "scripts": {
@@ -14,18 +14,18 @@
   "author": "koralle",
   "license": "MIT",
   "engines": {
-    "node": ">=22.16.0",
-    "pnpm": ">=10.12.1",
+    "node": ">=22.23.2",
+    "pnpm": ">=10.34.5",
     "npm": "please use pnpm!",
     "yarn": "please use pnpm!"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
-    "@tsconfig/strictest": "^2.0.5",
-    "@types/node": "^24.0.1",
-    "lefthook": "^1.11.13",
-    "pnpm": "^10.12.1",
-    "typescript": "^5.8.3",
-    "vitest": "^3.2.3"
+    "@tsconfig/strictest": "^2.0.8",
+    "@types/node": "^24.13.3",
+    "lefthook": "^1.13.6",
+    "pnpm": "^10.34.5",
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.7"
   }
 }
